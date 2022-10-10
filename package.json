@@ -1,0 +1,15 @@
+{
+  "name": "testplan",
+  "version": "1.0.0",
+  "description": "Automated software testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piotr Pudysz",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.26.1",
+    "playwright": "^1.26.1"
+  }
+}
